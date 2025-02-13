@@ -265,6 +265,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Visual Website Optimizer](https://vwo.com) | [@VWO](https://twitter.com/VWO) | $49/mo - $129/mo | Increase your website sales and conversions. Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources. |
 | [EyeQuant](https://www.eyequant.com) | [@eyequant](https://twitter.com/eyequant) | $199/mo - $999/mo | Instantly understand what your visitors will see and miss in their first seconds on your site, and improve your conversions. Analyse live sites or mockups within seconds, no code required. |
 | [Optimize by Google](https://optimize.google.com) | - | Free | Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. |
+| [OptimalUX](https://optimalux.com) | - | Free 5000/mo/domain - $1 for every 1000 additional users| Seamless SEO patching and A/B testing tool built on Cloudflare for effortless integration. |
 
 ## User Management
 
